@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * @param {Object} stateCopy
+ * @param {Object} state
  * @param {Object[]} actions
  *
  * @return {Object[]}
